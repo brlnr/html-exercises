@@ -15,3 +15,7 @@ html, body{
     color: white;
     font-size: 24px;
 }
+
+#someid{
+    color: purple;
+}
